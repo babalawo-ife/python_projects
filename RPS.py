@@ -53,4 +53,3 @@ elif user_input == 2 and Computer_choice == 0:
   print("computer wins ! ")
 elif Computer_choice == user_input:
  print("This is Draw Pls Play again ")
-Print("run App to play Game again ")
